@@ -11,7 +11,7 @@ A very simple messenger which maintains communications between 2 devices impleme
 * The received and sent messages are displayed on the screen of AVD.
 
 ### Link to the Code files:
-https://github.com/Sumedh0192/Distributed-Systems/blob/master/SimpleMessenger/app/src/main/java/edu/buffalo/cse/cse486586/simplemessenger/
+https://github.com/Sumedh0192/Simple-Text-Messenger/blob/master/app/src/main/java/edu/buffalo/cse/cse486586/simplemessenger/
 
 ### Link to official project description:
-https://github.com/Sumedh0192/Distributed-Systems/blob/master/SimpleMessenger/PA%201%20Specification.pdf
+https://github.com/Sumedh0192/Simple-Text-Messenger/blob/master/PA%201%20Specification.pdf
